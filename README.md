@@ -21,3 +21,4 @@ If the value obtained from the sensor goes beyond a specific limit, the controll
 
  SCHEMATIC DIAGRAM:
  ![image](https://user-images.githubusercontent.com/104260487/170632340-c9b3be7c-400b-48f8-8ddf-ffb5ec01ac95.png)
+ Simulation link: https://drive.google.com/folderview?id=1gNG5S7jq5Bq2r09Q2kHUG2h62wZ7iJ-X
